@@ -14,11 +14,11 @@ Soy un **Ingeniero Informático** apasionado por la **Inteligencia Artificial** 
 ---
 
 ## 💡 Proyectos Destacados
-### 🌿 [Sistema de Riego Automático](https://github.com/MarcCasanova/TFG)
+### 🌿 [Sistema de Riego Automático](https://github.com/marcasanova/TFG)
 - Un sistema inteligente que gestiona el riego de plantas basado en datos de sensores de humedad, temperatura y nivel de agua.
 - Tecnologías usadas: **Node.js**, **React**, **MongoDB**, **Arduino**, **MQTT** y **WebSockets**.
 
-### 🤖 [Navegación AR para la Universidad LUT, Finlandia]()
+### 🤖 [Navegación AR para la Universidad LUT, Finlandia](https://www.figma.com/proto/pErqwulhah2cJBvm2aH29l/Lahti-Prototype?node-id=1-3&starting-point-node-id=1%3A3)
 - Guía de navegación en interiores para personas con problemas de orientación espacial utilizando **realidad aumentada** y **beacons**.
 - Tecnologías usadas: **Unity**, **Immersal Plugin**, **Figma**.
 
