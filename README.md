@@ -41,11 +41,6 @@ Soy un **Ingeniero Informático** apasionado por la **Inteligencia Artificial** 
 
 ---
 
-## 📈 Mis estadísticas en GitHub
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcCasanova&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contáctame
 - **LinkedIn:** [Marc Casanova](https://www.linkedin.com/in/marc-casanova-paya/)
 - **Correo:** marccp012@gmail.com
