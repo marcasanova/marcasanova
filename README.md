@@ -1,5 +1,4 @@
-<img src="assets/banner.png" alt="Marc Casanova · Ingeniero Informático · IA aplicada · marccasanova.dev" width="100%">
-
+<img src="banner.png" alt="Marc Casanova · Ingeniero Informático · IA aplicada · marccasanova.dev" width="100%">
 ## Hola, soy Marc
 
 Ingeniero Informático especializado en IA. Desarrollo proyectos con inteligencia artificial y documento el proceso en redes.
