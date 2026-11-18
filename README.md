@@ -1,4 +1,5 @@
 <img src="banner.png" alt="Marc Casanova · Ingeniero Informático · IA aplicada · marccasanova.dev" width="100%">
+
 ## Hola, soy Marc
 
 Ingeniero Informático especializado en IA. Desarrollo proyectos con inteligencia artificial y documento el proceso en redes.
@@ -10,12 +11,12 @@ Trabajo como programador de IA y Big Data en **Consultia Business Travel**, dond
 ### [Braini Emotions](https://github.com/marcasanova/BRAINI)
 Plataforma de educación emocional que conecta a los colegios con las familias. Las familias siguen en casa un programa de misiones y actividades, llevan un diario emocional y hacen tests de inteligencia emocional, mientras la dirección y el profesorado hacen el seguimiento desde su propio panel. Fue mi Trabajo Fin de Máster en BIG school y ahora está en fase de demos.
 
-`React` `TypeScript` `Supabase` `Vercel` · [Demo](https://braini.vercel.app)
+`React` `TypeScript` `Supabase` `Vercel` · [Web](https://www.brainiemotions.com)
 
 ### [Album NFC](https://github.com/marcasanova/webapp-nfc)
 Pegas una etiqueta NFC al imán que compraste en cada viaje y, al acercar el móvil, se abre el álbum de fotos de ese destino, sin instalar nada ni registrarse. Conté el proyecto en vídeo y entre TikTok e Instagram superó las 230.000 visualizaciones.
 
-`Next.js` `TypeScript` `Supabase` `NFC` · [Demo](https://webapp-nfc.vercel.app)
+`Next.js` `TypeScript` `Supabase` `NFC`
 
 ### [RiegAI](https://github.com/marcasanova/TFG)
 Mi Trabajo Fin de Grado: un sistema de riego automático con IoT para un vivero que regaba a mano. Sensores y electroválvulas con Arduino que envían los datos por MQTT a un backend en Node.js, y una aplicación web en React para ver cada mesa de cultivo en tiempo real y programar el riego.
